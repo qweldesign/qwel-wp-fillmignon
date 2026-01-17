@@ -1,20 +1,30 @@
 # Fillmigon (WordPress Theme)
 
 fillmignon のためのWordPressテーマ。  
+金沢在住のジュエリー作家のポートフォリオとなっている。  
+2020年4月頃開発終了。  
 
 [https://fillmignon.com/](https://fillmignon.com/)
 
-※2025年4月現在、諸事情により非公開に設定したため、閲覧できません。
+※2026年1月現在、諸事情により非公開に設定したため、閲覧できません。
 
 ---
 
-## Copyright (C) | 著作権
+## 著作権 | Copyright (C)
 
-Copyright (C) 2025 [QWEL.DESIGN](https://qwel.design)  
+Copyright (C) 2026 [QWEL.DESIGN](https://qwel.design)  
 All rights reserved.  
+
+このリポジトリは閲覧目的のために公開されています。  
+コードの改変、再配布、再利用は、明示的な許可なしには認められていません。  
 
 This repository is published for viewing purposes only.  
 Modification, redistribution, or reuse of any part of this code is not permitted without explicit permission.  
 
-このリポジトリは閲覧目的のために公開されています。  
-コードの改変、再配布、再利用は、明示的な許可なしには認められていません。
+---
+
+## 制作者 | Author
+
+[QWEL.DESIGN](https://qwel.design)  
+福井を拠点に活動するフロントエンド開発者  
+Front-end developer based in Fukui, Japan  
